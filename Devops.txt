@@ -1,3 +1,4 @@
+3rd update on slash commad	
 2nd update in git file`
 Hello class welcome to GIT first class
 3rd line added in GITHUB side....
